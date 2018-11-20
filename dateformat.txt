@@ -1,0 +1,9 @@
+        SimpleDateFormat dformat = new SimpleDateFormat("dd/MM/yyyy");
+        String date = dformat.format(jDateChooser.getDate());
+        
+        System.out.println(date);
+        System.out.println(jDateChooser.getDate());
+
+
+
+//by Pigarri :)
